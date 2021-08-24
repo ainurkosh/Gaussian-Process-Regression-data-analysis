@@ -1,2 +1,4 @@
 # Gaussian-Process-Regression-data-analysis
-Gaussian Process Regression (GPR) method applied to earlier published experimental reports of ITCs measured across various metal-nonmetal and nonmetal-nonmetal two-layer interfaces. 
+ 
+Gaussian Process Regression (GPR) method applied to earlier published experimental reports of ITCs measured across various metal-nonmetal and nonmetal-nonmetal two-layer interfaces. The following physical descriptors of both, the film and the substrate, were considered: thermal conductivity k, Debye temperature θ_D, longitudinal sound velocity v_l, melting temperature T_m, mass density ρ, Young’s modulus E, molar volume V_μ. These parameters of the corresponding films and substrates were found to be substantially affecting the resulting ITC across them [3, 4]. 
+Pearson correlation coefficient map was built to evaluate the linear correlation of different physical descriptors with the corresponding ITC value. The analysis based on the given data set showed that such film parameters as V_l, E and θ_D have the strongest correlation with the ITC.
